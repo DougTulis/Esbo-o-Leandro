@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projetos\\Locacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA1A522-752C-45A7-AC9C-EF2F9507856C}|Locacao.csproj|d:\\projetos\\locacao\\dominio\\model\\abstractmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA1A522-752C-45A7-AC9C-EF2F9507856C}|Locacao.csproj|solutionrelative:dominio\\model\\abstractmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA1A522-752C-45A7-AC9C-EF2F9507856C}|Locacao.csproj|d:\\projetos\\locacao\\dominio\\model\\pessoamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA1A522-752C-45A7-AC9C-EF2F9507856C}|Locacao.csproj|solutionrelative:dominio\\model\\pessoamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA1A522-752C-45A7-AC9C-EF2F9507856C}|Locacao.csproj|d:\\projetos\\locacao\\aplicacao\\dto\\pessoadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA1A522-752C-45A7-AC9C-EF2F9507856C}|Locacao.csproj|solutionrelative:aplicacao\\dto\\pessoadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA1A522-752C-45A7-AC9C-EF2F9507856C}|Locacao.csproj|d:\\projetos\\locacao\\infra\\postgresadapterconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA1A522-752C-45A7-AC9C-EF2F9507856C}|Locacao.csproj|solutionrelative:infra\\postgresadapterconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA1A522-752C-45A7-AC9C-EF2F9507856C}|Locacao.csproj|d:\\projetos\\locacao\\aplicacao\\usecase\\pessoacriarusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA1A522-752C-45A7-AC9C-EF2F9507856C}|Locacao.csproj|solutionrelative:aplicacao\\usecase\\pessoacriarusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA1A522-752C-45A7-AC9C-EF2F9507856C}|Locacao.csproj|d:\\projetos\\locacao\\aplicacao\\usecase\\pessoaalterarusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA1A522-752C-45A7-AC9C-EF2F9507856C}|Locacao.csproj|solutionrelative:aplicacao\\usecase\\pessoaalterarusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA1A522-752C-45A7-AC9C-EF2F9507856C}|Locacao.csproj|d:\\projetos\\locacao\\infra\\mysqladapterconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA1A522-752C-45A7-AC9C-EF2F9507856C}|Locacao.csproj|solutionrelative:infra\\mysqladapterconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA1A522-752C-45A7-AC9C-EF2F9507856C}|Locacao.csproj|d:\\projetos\\locacao\\infra\\repositorio\\pessoarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA1A522-752C-45A7-AC9C-EF2F9507856C}|Locacao.csproj|solutionrelative:infra\\repositorio\\pessoarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA1A522-752C-45A7-AC9C-EF2F9507856C}|Locacao.csproj|d:\\projetos\\locacao\\aplicacao\\interface\\iconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA1A522-752C-45A7-AC9C-EF2F9507856C}|Locacao.csproj|solutionrelative:aplicacao\\interface\\iconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAA1A522-752C-45A7-AC9C-EF2F9507856C}|Locacao.csproj|d:\\projetos\\locacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAA1A522-752C-45A7-AC9C-EF2F9507856C}|Locacao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostgresAdapterConnection.cs",
+              "DocumentMoniker": "D:\\Projetos\\Locacao\\Infra\\PostgresAdapterConnection.cs",
+              "RelativeDocumentMoniker": "Infra\\PostgresAdapterConnection.cs",
+              "ToolTip": "D:\\Projetos\\Locacao\\Infra\\PostgresAdapterConnection.cs",
+              "RelativeToolTip": "Infra\\PostgresAdapterConnection.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:28:33.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MySqlAdapterConnection.cs",
+              "DocumentMoniker": "D:\\Projetos\\Locacao\\Infra\\MySqlAdapterConnection.cs",
+              "RelativeDocumentMoniker": "Infra\\MySqlAdapterConnection.cs",
+              "ToolTip": "D:\\Projetos\\Locacao\\Infra\\MySqlAdapterConnection.cs",
+              "RelativeToolTip": "Infra\\MySqlAdapterConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:28:32.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PessoaAlterarUseCase.cs",
+              "DocumentMoniker": "D:\\Projetos\\Locacao\\Aplicacao\\UseCase\\PessoaAlterarUseCase.cs",
+              "RelativeDocumentMoniker": "Aplicacao\\UseCase\\PessoaAlterarUseCase.cs",
+              "ToolTip": "D:\\Projetos\\Locacao\\Aplicacao\\UseCase\\PessoaAlterarUseCase.cs",
+              "RelativeToolTip": "Aplicacao\\UseCase\\PessoaAlterarUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T16:48:30.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PessoaDTO.cs",
+              "DocumentMoniker": "D:\\Projetos\\Locacao\\Aplicacao\\DTO\\PessoaDTO.cs",
+              "RelativeDocumentMoniker": "Aplicacao\\DTO\\PessoaDTO.cs",
+              "ToolTip": "D:\\Projetos\\Locacao\\Aplicacao\\DTO\\PessoaDTO.cs",
+              "RelativeToolTip": "Aplicacao\\DTO\\PessoaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:48:36.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IConnection.cs",
+              "DocumentMoniker": "D:\\Projetos\\Locacao\\Aplicacao\\Interface\\IConnection.cs",
+              "RelativeDocumentMoniker": "Aplicacao\\Interface\\IConnection.cs",
+              "ToolTip": "D:\\Projetos\\Locacao\\Aplicacao\\Interface\\IConnection.cs",
+              "RelativeToolTip": "Aplicacao\\Interface\\IConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:48:06.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AbstractModel.cs",
+              "DocumentMoniker": "D:\\Projetos\\Locacao\\Dominio\\Model\\AbstractModel.cs",
+              "RelativeDocumentMoniker": "Dominio\\Model\\AbstractModel.cs",
+              "ToolTip": "D:\\Projetos\\Locacao\\Dominio\\Model\\AbstractModel.cs",
+              "RelativeToolTip": "Dominio\\Model\\AbstractModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:45:12.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PessoaModel.cs",
+              "DocumentMoniker": "D:\\Projetos\\Locacao\\Dominio\\Model\\PessoaModel.cs",
+              "RelativeDocumentMoniker": "Dominio\\Model\\PessoaModel.cs",
+              "ToolTip": "D:\\Projetos\\Locacao\\Dominio\\Model\\PessoaModel.cs",
+              "RelativeToolTip": "Dominio\\Model\\PessoaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:45:07.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PessoaCriarUseCase.cs",
+              "DocumentMoniker": "D:\\Projetos\\Locacao\\Aplicacao\\UseCase\\PessoaCriarUseCase.cs",
+              "RelativeDocumentMoniker": "Aplicacao\\UseCase\\PessoaCriarUseCase.cs",
+              "ToolTip": "D:\\Projetos\\Locacao\\Aplicacao\\UseCase\\PessoaCriarUseCase.cs",
+              "RelativeToolTip": "Aplicacao\\UseCase\\PessoaCriarUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:40:20.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PessoaRepositorio.cs",
+              "DocumentMoniker": "D:\\Projetos\\Locacao\\Infra\\Repositorio\\PessoaRepositorio.cs",
+              "RelativeDocumentMoniker": "Infra\\Repositorio\\PessoaRepositorio.cs",
+              "ToolTip": "D:\\Projetos\\Locacao\\Infra\\Repositorio\\PessoaRepositorio.cs",
+              "RelativeToolTip": "Infra\\Repositorio\\PessoaRepositorio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:38:26.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projetos\\Locacao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projetos\\Locacao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:35:15.826Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

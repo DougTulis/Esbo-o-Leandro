@@ -1,0 +1,14 @@
+D:\Projetos\Locacao\bin\Debug\net8.0\Locacao.exe
+D:\Projetos\Locacao\bin\Debug\net8.0\Locacao.deps.json
+D:\Projetos\Locacao\bin\Debug\net8.0\Locacao.runtimeconfig.json
+D:\Projetos\Locacao\bin\Debug\net8.0\Locacao.dll
+D:\Projetos\Locacao\bin\Debug\net8.0\Locacao.pdb
+D:\Projetos\Locacao\obj\Debug\net8.0\Locacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Locacao\obj\Debug\net8.0\Locacao.AssemblyInfoInputs.cache
+D:\Projetos\Locacao\obj\Debug\net8.0\Locacao.AssemblyInfo.cs
+D:\Projetos\Locacao\obj\Debug\net8.0\Locacao.csproj.CoreCompileInputs.cache
+D:\Projetos\Locacao\obj\Debug\net8.0\Locacao.dll
+D:\Projetos\Locacao\obj\Debug\net8.0\refint\Locacao.dll
+D:\Projetos\Locacao\obj\Debug\net8.0\Locacao.pdb
+D:\Projetos\Locacao\obj\Debug\net8.0\Locacao.genruntimeconfig.cache
+D:\Projetos\Locacao\obj\Debug\net8.0\ref\Locacao.dll
